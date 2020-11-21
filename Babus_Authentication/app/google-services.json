@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1054506051548",
+    "firebase_url": "https://babusauthentication.firebaseio.com",
+    "project_id": "babusauthentication",
+    "storage_bucket": "babusauthentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054506051548:android:baa51f3fbe2b607fd5d119",
+        "android_client_info": {
+          "package_name": "com.example.babus_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054506051548-def90ecfeamljq4jmp5fmbofchn4lvc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.babus_authentication",
+            "certificate_hash": "28bee6426f71b6883fa8274aa1585813d8c11c1d"
+          }
+        },
+        {
+          "client_id": "1054506051548-1sfgo79d2tt65vd3u3bun4nk2g504fs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Wb6G_VKUW3vfYGw5HYmqsZFU05Jrhaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054506051548-1sfgo79d2tt65vd3u3bun4nk2g504fs4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
